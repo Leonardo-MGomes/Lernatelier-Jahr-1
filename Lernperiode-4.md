@@ -4,9 +4,9 @@
 29.05.26
 ---
 Planung
-- MoodleDownloader
+- An MoodleDownloader weiter arbeiten
   - Moodle Mobile HTTP requests analysieren
-  - Moodle Mobile PoC implementieren
+  - Moodle Mobile PoC mit zugriff auf folgende Daten erstellen
     - Login
     - Course info
     - User info
