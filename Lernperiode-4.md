@@ -53,9 +53,27 @@ Ich habe diesen Lernperiode dokument bearbeitet um die meisten anforderungen zu 
 
 ### Planung 12.06.2026
 - [ ] Planung bearbeiten um die Anforderungen zu erfülen
-- [ ] Powershell LB-Projekt
-  - [ ] Funktion um Dateien in Downloads zur richtigen Ordner verschieben
-  - [ ] Funktion um Dateien zu herunterladen
+- [X] Powershell LB-Projekt
+  - [X] Funktion um Dateien in Downloads zur richtigen Ordner verschieben
+  - [X] Funktion um Dateien zu herunterladen
   - [ ] Funktion um Dateien abhängig von Ordnernamen zu herunterladen (missing files zb.)
-  - [ ] Scheduled task compatability
+  - [ ] Scheduled task compatibility
+- [ ] Schulplanner
+  - [X] Mögliche Backend-Services recherchieren
+  - [-] Next.js & React lernen
+
+Ich hatte Probleme mit meinem Submodule für den PowerShell Skript, ich konnte irgendwie nicht bei Moodle einloggen. Der Grund war meine Veränderung des Codes von MoodleDownloader vor ~2 Wochen, ich habe neue Parameter hinzugefügt und andere gewechselt und in diesem Projekt noch nicht aktualisiert. Das hat mir die meiste Zeit gekostet.
+Ich mache den Schulplanner mit einem Mitschüler, Bartosz, wir haben vor allem recherchiert, welche mögliche Backend Services wir nutzen können, endgültig sind wir auf folgende Optionen geblieben: Firebase, Supabase und eigener Server (oder Schul/Makerspace Server).
+
+### Planung 19.06.2026
+- [ ] MoodleChores (Powershell LB-Projekt)
+  - [ ] Authentifizierung Code refaktorisieren
+  - [ ] Main Code in InfoGather refaktorisieren
+  - [ ] Indexierung implementieren
+  - [ ] Kurs syncro implementieren
+  - [ ] LB Dokumentation schreiben
+- [ ] Portfolio Website (HTML & CSS LB-Projekt)
+  - [ ] Bookmarks erstellen 
+  - [ ] Mobile ansicht korrigieren
+  - [ ] Falls erlaubt, JS nutzen um die Bookmarks zu erstellen
   
