@@ -67,13 +67,27 @@ Ich mache den Schulplanner mit einem Mitschüler, Bartosz, wir haben vor allem r
 
 ### Planung 19.06.2026
 - [ ] MoodleChores (Powershell LB-Projekt)
-  - [ ] Authentifizierung Code refaktorisieren
-  - [ ] Main Code in InfoGather refaktorisieren
-  - [ ] Indexierung implementieren
-  - [ ] Kurs syncro implementieren
+  - [X] Authentifizierung Code refaktorisieren
+  - [X] Main Code in InfoGather refaktorisieren
+  - [X] Indexierung implementieren
+  - [-] Kurs syncro implementieren
   - [ ] LB Dokumentation schreiben
 - [ ] Portfolio Website (HTML & CSS LB-Projekt)
-  - [ ] Bookmarks erstellen 
-  - [ ] Mobile ansicht korrigieren
-  - [ ] Falls erlaubt, JS nutzen um die Bookmarks zu erstellen
-  
+  - [X] Bookmarks erstellen 
+  - [X] Mobile ansicht korrigieren
+  - [X] Falls erlaubt, JS nutzen um die Bookmarks zu erstellen
+
+Heute habe ich nicht an mein Projekt gearbeitet, weil ich in ein bisschen Zeitstress bin, Modulabgaben sind nächste Woche und ich bin noch nicht ganz bereit.
+Heute war aber ansonsten ziemlich ereignislos, keine Probleme, aber viel Fleißarbeit, die ich lieber nicht gemacht hätte.
+Nächstes Mal muss ich halt jede Woche ein bisschen arbeiten, anstatt alles für die letzte Woche lassen.
+
+### Planung 26.06.2026
+- [ ] MoodleDownloader
+  - [ ] Scraper logik muss Kurse mit dependencies erlauben
+  - [ ] Datenbank auch ändern um dies zu erlauben
+- [ ] Schulplanner
+  - [ ] Next.js & React lernen
+  - [ ] PoC: Erste gedanken zur Projekt machen (aka weiterhin planen)
+  - [ ] PoC: Simples HTML frontend schreiben
+  - [ ] PoC: Datenbank schema erste gedanken
+  - [ ] PoC: Datenbank schema implementieren
