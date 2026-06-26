@@ -86,8 +86,13 @@ Nächstes Mal muss ich halt jede Woche ein bisschen arbeiten, anstatt alles für
   - [ ] Scraper logik muss Kurse mit dependencies erlauben
   - [ ] Datenbank auch ändern um dies zu erlauben
 - [ ] Schulplanner
-  - [ ] Next.js & React lernen
+  - [-] Next.js & React lernen
   - [ ] PoC: Erste gedanken zur Projekt machen (aka weiterhin planen)
   - [ ] PoC: Simples HTML frontend schreiben
   - [ ] PoC: Datenbank schema erste gedanken
   - [ ] PoC: Datenbank schema implementieren
+
+Ich habe den MoodleDownloader für später gelassen, da ich sowieso vorhabe, zuhause zu arbeiten.
+Ich habe bewusst mehr geplant, als ich machen könnte, aber ich dachte sowieso, dass ich mindestens an ein PoC anfangen könnte, leider war das nicht der Fall.
+Next.js und React hat viel mehr als was ich gedacht habe und ist im Allgemeinen eine andere Umgebung als ich gewohnt bin.
+Ansonsten lief es gut, ich komme ein bisschen langsam voran, aber ich verstehe das meiste Stoff.
