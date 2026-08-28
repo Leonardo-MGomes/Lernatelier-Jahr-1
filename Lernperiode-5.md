@@ -52,18 +52,26 @@ Ich habe bereits Erfahrungen mit C++ und in diesem Modul wurden ohnehin nur die 
 
 ### Planung 28.08.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] MoodleClient
+  - [ ] core_course_get_categories implementieren
+  - [ ] core_course_get_contents implementieren
+- [ ] C++ Essentials in Netacad
+  - [ ] Modul 3 beenden (3.4 - 3.9) + test bestehen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich leider nichts vollständig abgeschlossen. Es sind viele ungeplante Probleme aufgetreten, die mich beeinträchtigt haben.
+Ich habe an C++ Essentials weitergearbeitet, genauer gesagt an Modul 3, ich fand es ein bisschen schwieriger (als letzte woche).
+Pointer und Referenzen sind mir noch ein bisschen fremd. Ich verstehe es langsam immer besser, aber ich brauche mehr Übung, um damit die richtig zu nutzen.
 
 
 ### Planung 04.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] C++ Essentials in Netacad
+  - [ ] Modul 3 beenden (3.8 - 3.9) + test bestehen
+  - [ ] Modul 4 anfangen (4.1 - 4.5)
+- [ ] Ersten C++ Projekt anfangen
+  - [ ] Scope wählen
+  - [ ] Anforderungen notieren / dokumentieren
+  - [ ] Environment erstellen und kleiner beispiel kompilieren lassen
 
 (Heute habe ich... (50-100 Wörter))
 
